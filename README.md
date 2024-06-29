@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayank5290" target="blank"><img src="https://img.shields.io/twitter/follow/mayank5290?logo=twitter&style=for-the-badge" alt="mayank5290" /></a> </p>
 
-- 🔭 I’m currently working on **Loan status prediction**
+- 🔭 I’m currently working on **Loan status prediction using machine learning**
 
 - 🌱 I’m currently learning **Generative AI**
 
