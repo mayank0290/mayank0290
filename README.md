@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Python, Analytics, Automation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayank0290](https://github.com/mayank0290)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
