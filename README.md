@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
+<h1 align="center">Hi 👋, I'm Mayank Kashyap</h1>
 <h3 align="center">AI/ML learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank0290&label=Profile%20views&color=0e75b6&style=flat" alt="mayank0290" /> </p>
