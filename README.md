@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Loan status prediction using M.L<br><br>🌱 I’m currently learning GoLang and Flask<br><br>👯 I’m looking to collaborate on Python, Analytics, Automation
+🔭 I’m currently working on Loan status prediction using M.L<br><br>🌱 I’m currently learning Flask & MLflow<br><br>👯 I’m looking to collaborate on Python, Analytics, Automation
 
 
 ## 🌐 Socials:
