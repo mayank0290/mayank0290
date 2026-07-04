@@ -11,10 +11,9 @@
 ![Anthropic](https://img.shields.io/badge/Claude_API-D97757.svg?style=plastic&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=plastic&logo=ollama&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-1a1a2e.svg?style=plastic)
-![Gradio](https://img.shields.io/badge/Gradio-F97316.svg?style=plastic)
 ![Make](https://img.shields.io/badge/Make-6D00CC.svg?style=plastic&logo=make&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853.svg?style=plastic&logo=googlesheets&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mayank0290&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayank0290&theme=onedark&hide_border=false)<br/>
