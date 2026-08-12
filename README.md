@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_5o29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mayank5290) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_5o29)
 
 # 💻 Languages & Tools I use:
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54)
