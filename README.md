@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_5o29)
 
-# 💻 Languages & Tools I use:
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=plastic&logo=n8n&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-D97757.svg?style=plastic&logo=anthropic&logoColor=white)
